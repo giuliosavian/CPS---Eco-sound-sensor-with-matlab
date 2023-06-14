@@ -2,6 +2,7 @@
 
 <!-- INTRODUCTION OF THE PROJECT -->
 ## Intro Of The Project
+This project has been made by myself from the cyber physic system course in the university of Padua and it use matlab mobile connected to the phone. The phone makes a sound based on the distance computed by the ultrasound sensor.
 
 The purpose of this project consists in measuring the distance between the sensor and obstacles placed in the surrounding environment by means of an ultrasound sensor. 
 
